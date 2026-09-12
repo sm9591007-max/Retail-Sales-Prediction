@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Prediction & Inventory Analytics
+#  Retail Sales Prediction & Inventory Analytics
 
 An end-to-end **Machine Learning & Data Analytics** project that forecasts daily retail sales for **1,115 Rossmann stores** across Germany. The system uses historical sales, promotions, holidays, competition, and seasonal patterns to predict sales **up to 6 weeks in advance**, helping businesses optimize inventory and budget planning.
 
